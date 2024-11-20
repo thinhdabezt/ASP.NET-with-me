@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|d:\\csharp\\asp_tuhoc\\magicvilla\\villaapi\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|solutionrelative:villaapi\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|d:\\csharp\\asp_tuhoc\\magicvilla\\villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|solutionrelative:villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|d:\\csharp\\asp_tuhoc\\magicvilla\\villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|solutionrelative:villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|d:\\csharp\\asp_tuhoc\\magicvilla\\villaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|solutionrelative:villaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|d:\\csharp\\asp_tuhoc\\magicvilla\\villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|solutionrelative:villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|d:\\csharp\\asp_tuhoc\\magicvilla\\villaapi\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BCFFFD-BC9E-4C3B-9CC1-BB1F8155AF7C}|VillaAPI\\VillaAPI.csproj|solutionrelative:villaapi\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VillaAPI\\Program.cs",
+              "ToolTip": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Program.cs",
+              "RelativeToolTip": "VillaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:26:39.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VillaAPI\\appsettings.json",
+              "ToolTip": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\appsettings.json",
+              "RelativeToolTip": "VillaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T18:23:24.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VillaAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VillaAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:20:42.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaDTO.cs",
+              "DocumentMoniker": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Models\\Dto\\VillaDTO.cs",
+              "RelativeDocumentMoniker": "VillaAPI\\Models\\Dto\\VillaDTO.cs",
+              "ToolTip": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Models\\Dto\\VillaDTO.cs",
+              "RelativeToolTip": "VillaAPI\\Models\\Dto\\VillaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:04:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Models\\Villa.cs",
+              "RelativeDocumentMoniker": "VillaAPI\\Models\\Villa.cs",
+              "ToolTip": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Models\\Villa.cs",
+              "RelativeToolTip": "VillaAPI\\Models\\Villa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:55:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VillaAPIController.cs",
+              "DocumentMoniker": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Controllers\\VillaAPIController.cs",
+              "RelativeDocumentMoniker": "VillaAPI\\Controllers\\VillaAPIController.cs",
+              "ToolTip": "D:\\CSharp\\ASP_TuHoc\\MagicVilla\\VillaAPI\\Controllers\\VillaAPIController.cs",
+              "RelativeToolTip": "VillaAPI\\Controllers\\VillaAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:52:54.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
